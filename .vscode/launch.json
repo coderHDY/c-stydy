@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/dreamarts/Documents/coderhdy/c-study/00_base/14_推箱子",
+      "program": "/Users/dreamarts/Documents/coderhdy/c-study/00_base/14_推箱子/build/Debug/outDebug"
+    }
+  ]
+}
